@@ -5,7 +5,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
-  * This is the App class where your Pacman game will start.
+  * This is the Apps class where your Pacman game will start.
   * The main method of this application calls the start method. You
   * will need to fill in the start method to instantiate your game.
   *
@@ -13,7 +13,7 @@ import javafx.stage.Stage;
   *
   */
 
-public class App extends Application {
+public class Apps extends Application {
 
     @Override
     public void start(Stage stage) {
